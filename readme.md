@@ -15,9 +15,9 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git diff` - __This will show the difference between what you have and what is staged (added with git add; they are also referred to as the INDEX). Using just 'git diff' shows a short description of files changed, but a filepath can also be designated.__
 
 #### Repo History
-`$ git log` - lists commits in local repository
+`$ git log` - __lists commits in local repository__
 
-`$ git log --oneline --decorate --color --graph --all` - shows all of the commits on the local repo that have a color decoration
+`$ git log --oneline --decorate --color --graph --all` - __shows all of the commits on the local repo that have a color decoration__
 
 `$ git log -p [filename]` __Fill Me Out__
 
