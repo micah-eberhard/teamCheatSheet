@@ -27,7 +27,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git add -A` - __Fill Me Out__
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - __Stores current content in a new commit, includes a commit message which is typed inside the quotes.__
 
 #### Branching
 `$ git branch <branch name>` - __Fill Me Out__
@@ -38,4 +38,4 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - __Pulls in changes from the named branch (since they diverged in the first place). git pull actually uses git merge, just more specifically.__
