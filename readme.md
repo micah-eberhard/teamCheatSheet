@@ -30,11 +30,11 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git commit -m "<commit message>"` - __Stores current content in a new commit, includes a commit message which is typed inside the quotes.__
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - Starts a new branch based on the current branch with <branch name>.
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - Gets a list of existing branches and highlights the current one.
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - Creates a new branch with <branch name> and also switches the working tree to the new branch.
 
 #### Merging
 
