@@ -15,9 +15,9 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git diff` - __Fill Me Out__
 
 #### Repo History
-`$ git log` - __Fill Me Out__
+`$ git log` - lists commits in local repository
 
-`$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
+`$ git log --oneline --decorate --color --graph --all` - shows all of the commits on the local repo that have a color decoration
 
 `$ git log -p [filename]` __Fill Me Out__
 
